@@ -1,0 +1,1 @@
+A interface File provê informações sobre arquivos e permite ao Javascript a acessar seu c
